@@ -1,0 +1,9 @@
+Change-making problem
+
+
+
+.Consider two functions  f(n)  and  g(n)  that are defined for all positive integers and take on non-negative real
+ values. (Some frequently used functions used in algorithm design:  logn ,  n⎯⎯√ ,  nlogn ,  n3 ,  2n ).
+ We say that  f  grows slower than  g  and write  f≺g , if  f(n)g(n)  goes to 0 as  n  grows. We say that  f
+ grows no faster than  g  and write  f⪯g , if there exists a constant  c  such that  f(n)≤c⋅g(n)  for all  n .
+
