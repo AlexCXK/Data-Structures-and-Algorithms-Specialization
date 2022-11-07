@@ -12,4 +12,6 @@ def gcd(a, b):
         return b
     return gcd(b%a, a)
 # print(gcd(28851538, 1183019))
-print(18%35)
+# print(gcd(45, 210))
+# print(gcd(210, 45))
+
